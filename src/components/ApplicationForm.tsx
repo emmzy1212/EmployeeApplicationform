@@ -104,7 +104,7 @@ const ApplicationForm = () => {
         <div className="max-w-2xl mx-auto bg-white shadow-lg rounded-lg p-8 text-center">
           <CheckCircle className="w-16 h-16 text-emerald-500 mx-auto mb-4" />
           <h2 className="text-2xl font-serif text-navy mb-4">Application Submitted Successfully</h2>
-          <p className="text-gray-600">Thank you for applying to Ferkos Fine Jewelry. We will review your application and contact you soon.</p>
+          <p className="text-gray-600">Thank you for applying . We will review your application and contact you soon.</p>
         </div>
       </div>
     );
@@ -114,7 +114,7 @@ const ApplicationForm = () => {
     <div className="container mx-auto px-4 py-8">
       <form onSubmit={handleSubmit} className="max-w-3xl mx-auto bg-white shadow-lg rounded-lg overflow-hidden">
         <div className="p-8">
-          <h2 className="text-2xl font-serif text-navy mb-6">FERKOS FINE JEWELRY ONLINE APPLICATION</h2>
+          <h2 className="text-2xl font-serif text-navy mb-6">EMPLOYEE ONLINE APPLICATION</h2>
           
           {error && (
             <div className="mb-6 p-4 bg-red-50 border border-red-200 rounded-lg text-red-600">

@@ -18,7 +18,7 @@ const SubmissionSuccess = () => {
           </h2>
           
           <p className="text-gray-600 mb-6">
-            Thank you for applying to Ferkos Fine Jewelry. We have received your application and will review it shortly.
+            Thank you for applying. We have received your application and will review it shortly.
           </p>
           
           <div className="bg-cream p-4 rounded-lg inline-block mb-8">

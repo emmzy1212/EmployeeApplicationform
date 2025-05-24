@@ -8,7 +8,7 @@ const Header = () => {
         <div className="flex items-center space-x-2">
           <Diamond size={28} className="text-gold" />
           <h1 className="text-xl md:text-2xl font-serif tracking-wide">
-            FERKOS FINE JEWELRY
+            EMPLOYEE ONLINE APPLICATION
           </h1>
         </div>
       </div>
